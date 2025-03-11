@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745364318433",
+    "project_id": "chatappcompose-4d790",
+    "storage_bucket": "chatappcompose-4d790.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745364318433:android:0d2347599643eda826afa0",
+        "android_client_info": {
+          "package_name": "com.example.chatappcompose"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-M5GWGR6LFrcuUBWdchWfcGfMIKTLXXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
